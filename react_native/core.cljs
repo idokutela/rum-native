@@ -28,7 +28,6 @@
       `mount-and-register`."
   (:require
    [clojure.string]
-   [rum.core :as rum]
    ["react" :as React]
    ["react-native" :as ReactNative]
    ["create-react-class" :as create-class]))
