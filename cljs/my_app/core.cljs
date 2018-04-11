@@ -10,6 +10,6 @@
            (rn/text {:style {:font-size 30}} (rum/react state))))
 
 (defn init []
-  (rn/mount-and-register "TestNative" (App state)))
+  (rn/mount-and-register "MyApp" (App state)))
 
 
