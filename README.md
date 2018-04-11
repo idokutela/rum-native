@@ -5,9 +5,8 @@ add clojurescript modules to existing react-native projects.
 
 ## Why?
 
-`re-natal` is awesome, but I always have the feeling that one needs a
-lot of magic going on. Also, it uses `lein`, and I want to use
-`shadow-cljs`.
+`re-natal` is awesome, but I always feels a little too magical for my
+taste.  Also, it uses `lein`, and I want to use `shadow-cljs`.
 
 ## If I’m starting a new react native project.
 
