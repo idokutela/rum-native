@@ -3,6 +3,8 @@
 A super simple way to develop react native apps with clojurescript, or
 add clojurescript modules to existing react-native projects.
 
+If you prefer reagent, go [here](https://github.com/idokutela/reagent-native).
+
 ## Why?
 
 `re-natal` is awesome, but I always feels a little too magical for my
